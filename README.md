@@ -50,3 +50,5 @@ The [gameplay map](Content/ThirdPerson/Maps/ThirdPersonMap.umap), its baked data
 The source retains its original copyright notices. The player Blueprint, mapping context and gameplay level derive from Unreal's Third Person template and contain football-specific changes. Unreal Engine, mannequin artwork and Starter Content can be obtained from Epic. Venue meshes of unverified origin are omitted. Epic's terms for distributing modified Examples appear in section 5(b) of the [Unreal Engine EULA](https://www.unrealengine.com/eula/unreal).
 
 The public snapshot was checked against the original Git objects. The project descriptor, Unreal package headers, input bindings and scene asset references were inspected. Compilation and Play in Editor were not run for this release. Build and play behavior still need verification in Unreal Engine 5.5.
+
+[中文项目简介（PDF）](docs/portfolio/Project-Brief-ZH.pdf)
